@@ -1,0 +1,11 @@
+li {
+  list-style-type: none;
+  display: flex;
+  font-weight: bold;
+  font-size: 20px;
+  color: #1e293b;
+}
+
+.count {
+  margin-left: 5px;
+}
